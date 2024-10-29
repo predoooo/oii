@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1> pedro e thaynna </h1>
+    echo '<img src="imagens/pizza.jpg" alt="Pizza">' >> index.php
 </body>
 </html>
